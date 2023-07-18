@@ -1,2 +1,2 @@
 # Python
-Python programimg
+Welcome to Python programing
