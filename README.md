@@ -1,2 +1,2 @@
 # Python
-Welcome to Python programming language 
+Learn Python programming language 
