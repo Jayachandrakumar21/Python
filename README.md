@@ -1,3 +1,3 @@
 # Python
 Learn Python programming language 
-python scripting
+python scrip
