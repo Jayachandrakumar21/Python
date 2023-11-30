@@ -1,4 +1,4 @@
 # Python
-python is a widely used programming language.
+Python is a widely used programming language.
 Learn Python programming language 
-python scripting
+Python scripting
