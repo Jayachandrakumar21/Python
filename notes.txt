@@ -1,1 +1,2 @@
-python scripting concept
+python scripting concepts.
+Python programing concepts.
