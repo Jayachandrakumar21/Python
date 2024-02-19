@@ -1,2 +1,3 @@
 python scripting concepts.
-Python programing concepts.
+Python programming concepts.
+Python is used in ML & AI.
