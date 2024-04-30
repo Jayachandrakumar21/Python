@@ -4,4 +4,4 @@ Learn Python programming language
 Python scripting
 Artificial inteligence 
 Big data
-Machine learning
+Machine learnin
