@@ -1,3 +1,4 @@
 python scripting concepts.
 Python programming concepts.
 Python is used in ML & AI.
+python programming language is easy to use and understand,
